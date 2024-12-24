@@ -52,15 +52,10 @@ Build with mobile first or any other approach, using react, and challenge my sel
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com)
+Credit for [Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS), [Dicoding](https://www.dicoding.com/), and [W3schools.com](https://www.w3schools.com/) that teach me about HTML 5 and CSS 3.
 
 ## Author
 
 - Frontend Mentor - [@@agilhz](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@agil_hz](https://x.com/agil_hz)
 - Instagram - [@agil_haubi_zikri](https://www.instagram.com/agil_haubi_zikri/)
-
-## Acknowledgments
-
-Credit for [Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS), [Dicoding](https://www.dicoding.com/), and [W3schools.com](https://www.w3schools.com/) that teach me about HTML 5 and CSS 3.
