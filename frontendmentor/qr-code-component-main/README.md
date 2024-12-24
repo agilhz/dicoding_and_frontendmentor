@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-design-approach-with-flexbox-P3n0qgeXYk)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-design-approach-with-flexbox-P3n0qgeXYk)
 - Live Site URL: [netlify](https://jolly-cajeta-545747.netlify.app/)
 
 ## My process
