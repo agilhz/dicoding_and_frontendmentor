@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://jolly-cajeta-545747.netlify.app/)
+- Live Site URL: [netlify](https://jolly-cajeta-545747.netlify.app/)
 
 ## My process
 
@@ -48,7 +48,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-Build with mobile first, using react, and challenge my self to finish it only for 15 minutes.
+Build with mobile first or any other approach, using react, and challenge my self to finish it only for 15 minutes.
 
 ### Useful resources
 
